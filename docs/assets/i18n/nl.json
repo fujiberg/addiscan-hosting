@@ -1,0 +1,48 @@
+{
+  "contribution": {
+    "category": {
+      "allergen": null,
+      "created": null,
+      "ingredient-create": null,
+      "ingredients": null,
+      "photo": null
+    }
+  },
+  "food": {
+    "search": {
+      "placeholder": "Zoek naar etenswaren"
+    }
+  },
+  "profile": {
+    "account-management": {
+      "sign-out": "Uitloggen",
+      "title": "Account"
+    },
+    "language": {
+      "en": "Engels - English",
+      "ja": "Japans - 日本語",
+      "nl": "Nederlands",
+      "title": "Taal"
+    },
+    "page-title": "Profiel",
+    "region": {
+      "jp": "Japan",
+      "nl": "Nederland",
+      "title": "Regio"
+    }
+  },
+  "splash": {
+    "disclaimer": "We geven om je privacy. Addiscan zal nooit iets op je tijdlijn posten en we zullen nooit je gevens delen met andere bedrijven.<br/>Als je met een van bovenstaande methoden inlogt, kan Addiscan je naam, e-mailadres en profielafbeelding ontvangen en opslaan. Als je bijdraagt aan Addiscan, geef je automatisch toestemming om je naam en afbeelding aan anderen te laten zien. Je kan deze informatie te allen tijde aanpassen. Onze diensten voldoen aan de regelgeving van de Europese GDPR en Japanese APPI.",
+    "login": {
+      "anonymous": "Doorgaan zonder inloggen",
+      "comingsoon": "(binnenkort)",
+      "facebook": "Facebook",
+      "line": "LINE",
+      "title": "Mogen we weten wie je bent?"
+    },
+    "region": {
+      "detected": "We denken dat je in {{region}} bent.",
+      "update": "Je kan dit aanpassen in je profiel."
+    }
+  }
+}

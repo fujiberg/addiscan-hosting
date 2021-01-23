@@ -1,0 +1,48 @@
+{
+  "contribution": {
+    "category": {
+      "allergen": "Added allergens to this product",
+      "created": "Added this product to addiscan",
+      "ingredient-create": "",
+      "ingredients": "Entered the ingredients for this product",
+      "photo": "Snapped a photo of this product"
+    }
+  },
+  "food": {
+    "search": {
+      "placeholder": "Search for food"
+    }
+  },
+  "profile": {
+    "account-management": {
+      "sign-out": "Sign out",
+      "title": "Account"
+    },
+    "language": {
+      "en": "English",
+      "ja": "Japanese - 日本語",
+      "nl": "Dutch - Nederlands",
+      "title": "Language"
+    },
+    "page-title": "Profile",
+    "region": {
+      "jp": "Japan",
+      "nl": "the Netherlands",
+      "title": "Region"
+    }
+  },
+  "splash": {
+    "disclaimer": "We care about your privacy. Addiscan will never publish anything on your timeline and we will never share your information with third parties.<br/>When you log in with the above methods, Addiscan might receive and store your name, email address and your profile image. When you contribute with Addiscan, you implicitly give your consent for showing your configured name and profile image to others. You can change this information at any time. Our services are compliant with European GDPR and Japanese APPI.",
+    "login": {
+      "anonymous": "Continue without logging in",
+      "comingsoon": "(coming soon)",
+      "facebook": "Facebook",
+      "line": "LINE",
+      "title": "Can we know who you are?"
+    },
+    "region": {
+      "detected": "We detected your region is {{region}}.",
+      "update": "You can change this in your profile."
+    }
+  }
+}

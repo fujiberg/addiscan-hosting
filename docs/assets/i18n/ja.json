@@ -1,0 +1,48 @@
+{
+  "contribution": {
+    "category": {
+      "allergen": null,
+      "created": null,
+      "ingredient-create": null,
+      "ingredients": null,
+      "photo": null
+    }
+  },
+  "food": {
+    "search": {
+      "placeholder": "食品を探す"
+    }
+  },
+  "profile": {
+    "account-management": {
+      "sign-out": "サインアウト",
+      "title": "アカウント管理"
+    },
+    "language": {
+      "en": "英語 - English",
+      "ja": "日本語",
+      "nl": "オランダ語 - Nederlands",
+      "title": "言語設定"
+    },
+    "page-title": "プロフィール",
+    "region": {
+      "jp": "日本",
+      "nl": "オランダ",
+      "title": "領域"
+    }
+  },
+  "splash": {
+    "disclaimer": "私たちはあなたのプライバシーを大切にします。 Addiscanはあなたのタイムラインに何も公開することはなく、あなたの情報を第三者と共有することもありません。<br/>上記の方法でログインすると、Addiscanはあなたの名前、メールアドレス、プロフィール画像を受信して​​保存する場合があります。 Addiscanで貢献するときは、設定した名前とプロフィール画像を他の人に表示することに暗黙的に同意します。この情報はいつでも変更できます。当社のサービスは、ヨーロッパのGDPRおよび日本のAPPIに準拠しています。",
+    "login": {
+      "anonymous": "ログインせずに続行",
+      "comingsoon": "（近日公開）",
+      "facebook": "フェイスブック",
+      "line": "ライン",
+      "title": "あなたは誰？"
+    },
+    "region": {
+      "detected": "あなたは{{region}}にいます。",
+      "update": "プロフィールでこれを変更することができます。"
+    }
+  }
+}
